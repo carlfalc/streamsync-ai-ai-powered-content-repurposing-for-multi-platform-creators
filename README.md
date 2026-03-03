@@ -1,0 +1,2 @@
+# streamsync-ai-ai-powered-content-repurposing-for-multi-platform-creators
+StreamSync AI automatically transforms long-form video content (YouTube, Twitch VODs) into optimized clips for TikTok, Instagram Reels, and YouTube Shorts using AI scene detection and viral moment identification. With creators struggling to maintain presence across multiple platforms, this tool eliminates the 10+ hours weekly spent manually editing
