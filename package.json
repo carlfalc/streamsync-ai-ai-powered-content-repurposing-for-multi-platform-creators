@@ -1,0 +1,16 @@
+{
+  "name": "streamsync-ai-ai-powered-content-repurposing-for-multi-platform-creators",
+  "version": "0.1.0",
+  "description": "StreamSync AI automatically transforms long-form video content (YouTube, Twitch VODs) into optimized clips for TikTok, Instagram Reels, and YouTube Shorts using AI scene detection and viral moment ide",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
